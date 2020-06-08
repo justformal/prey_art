@@ -1,0 +1,27 @@
+.header {text-align: left;
+    font-size:120px;
+    margin: 20px;
+    vertical-align: bottom;
+    padding-left: 0px;
+    padding-bottom: 0px;
+color:white}
+.header-desc {text-align: left;
+    font-size:25px;
+    margin:20px;
+color:white}
+body {background-image: url(Background1.jpg);
+     background-attachment: fixed;
+    background-size:cover}
+.art-list {margin: 30px;
+text-align: center;
+border: 5px solid #ffffff;
+border-radius: 15%;
+vertical-align: bottom
+}
+.empty {
+    width: 1000px; /* Ширина слоя */
+    margin: 320px; /* Значение отступов */
+    padding: 0px; /* Поля вокруг текста */
+    border: 0px solid black; /* Параметры границы */
+    background: #fc0; /* Цвет фона */}
+.main-menu {text-align: center;}
