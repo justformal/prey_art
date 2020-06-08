@@ -26,6 +26,13 @@ vertical-align: bottom
     padding: 0px; /* Поля вокруг текста */
     border: 0px solid black; /* Параметры границы */
     background: #fc0; /* Цвет фона */}
-.main-menu { text-align: center}
-.art-list {text-align: center}
+.main-menu { text-align: none}
+.art-list {text-align: none; margin: 5px}
 nav {text-align: center}
+.sign 
+{float: auto;
+    padding: 0px 0px 0px 0px; /* Поля внутри блока */
+    margin: 0px 0px 100px 0px; /* Отступы вокруг */
+    font-size: 40px;
+    color: whitesmoke;}
+    
